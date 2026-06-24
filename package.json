@@ -1,0 +1,16 @@
+{
+  "name": "test-repo",
+  "version": "0.1.0",
+  "description": "A small test repository scaffolded for VS Code Playground.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "license": "MIT"
+}
