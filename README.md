@@ -1,17 +1,8 @@
-# Test Repository
+# Just a few practice pythons to run in VS Code
 
-A sample test repository scaffolded for a new workspace.
-
-## Setup
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-## Run tests
-
-```bash
-npm test
-```
+Python Foundations
+NumPy basics
+Pandas basics
+Dataframe basics
+SKLearn basics
+Plotting basics
