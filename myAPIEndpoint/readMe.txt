@@ -5,3 +5,9 @@
 
 
 # add test cases for the endpoint
+
+# pytest fixture = reusable setup.
+
+# pytest mock = pretend object.
+
+# pytest patch = temporary swap.
